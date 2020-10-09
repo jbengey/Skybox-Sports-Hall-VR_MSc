@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/Library
+/Temp
+/obj/Debug
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Skybox Sports Hall - Git.sln
