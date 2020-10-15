@@ -25,6 +25,8 @@ In my case, this was even more important to implement as I had chosen an open-ro
 <br><br><br>
 ## Release Information
 Current Version 1.0.0 - [Download](https://github.com/jbengey/Skybox-Sports-Hall-VR_MSc/releases/tag/v1.0.0)
+<br><br>
+[![DOI](https://zenodo.org/badge/302599083.svg)](https://zenodo.org/badge/latestdoi/302599083)
 <br>
 ### Tested with the following:
 * Unity 2019.4.10f1
